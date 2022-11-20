@@ -90,7 +90,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K 16M2160
 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道K",纯享4K 30M2160HDR
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K 30M2160HDR
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K修复.png" group-title="4K频道",4K修复 7M2160HEVC
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8

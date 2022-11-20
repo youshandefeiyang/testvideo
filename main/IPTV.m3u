@@ -1,0 +1,72 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="苏州4K" tvg-logo="http://jp.muyiyun.top:516/Picon/suzhou4k.png" group-title="4K频道",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="http://jp.muyiyun.top:516/Picon/cx4k.png" group-title="4K频道",纯享4K
+http://111.12.110.106:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="4K频道",欢笑剧场4K
+http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
+#EXTINF:-1 group-title="4K频道",CCTV16-4K
+http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1 group-title="4K频道",CCTV-4K超高清
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 group-title="4K频道",CCTV-16 HLG源
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://159.75.85.63:828/CCTV/CCTV4k.png" group-title="4K频道",CCTV 4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 group-title="4K频道",4K-UHD
+http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="4K影视" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/tg.jpg" group-title="4K频道",4K影视
+https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8
+#EXTINF:-1 group-title="4K频道",4K影视2
+http://111.20.105.192:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1 group-title="4K频道",4K影视3
+http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 group-title="4K频道",Fashion4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="4K频道",Clarity4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="4K频道",爱自然
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="4K频道",咪咕4K
+http://39.134.67.108/000000001000/3000000010000005180/index.m3u8?
+#EXTINF:-1 tvg-name="MUZZIK ZZ4000 4K" tvg-logo="http://jp.muyiyun.top:516/Picon/muzzikzz4000.png" group-title="4K频道",MUZZIK ZZ4000 4K
+http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+#EXTINF:-1 tvg-name="loupe 4K" tvg-logo="http://jp.muyiyun.top:516/Picon/loupe.png" group-title="4K频道",loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-高清(1)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-高清(2)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-高清(3)
+http://159.75.85.63:828/shijiebei/sjb.php?id=3007a
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-高清((4)
+http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-高清((5)
+http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV5-高清(6)
+http://111.20.45.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-高清(1)
+http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-高清(2)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-高清(3)
+http://159.75.85.63:828/shijiebei/sjb.php?id=5008a
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-高清(4)
+http://111.29.9.40:6610/000000001000/5000000008000023253/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023253
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-高清(5)
+http://111.29.9.41:6610/000000001000/5000000008000023253/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023253
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-高清(6)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K(1)
+http://159.75.85.63:828/shijiebei/sjb.php?id=5009a
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K(2)
+http://111.29.9.35:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-4K(3)
+http://111.29.9.36:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+#EXTINF:-1 group-title="== 世界杯专区 ==",五星体育(1)
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="== 世界杯专区 ==",五星体育(2)
+http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="== 世界杯专区 ==",五星体育(3)
+http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3

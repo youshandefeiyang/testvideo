@@ -1,4 +1,4 @@
-BTV冬奥记实际-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 抖音4K世界杯SDR源,https://pull-flv-spe-l26.douyinliving.com/fantasy/stream-400220578747515574_spuhd.flv?_neptune_token=MIGnBAzc_bPKc0LQKxaKnxQEgYTRyhOvmPI8g3BvC11hvx92niNKhnV0iG7CJHMGGQlpeq0BLWzLqEdW3BpXx3KIcmbqn-vx1b3LfnqH-SdgKmwVWMcDfElieRqxsCjtfSNzpOP1m_n81KUXgsZFLjc7tLI_rT_E0TCDm9SYMb-XA_jUvsRxiby5uVg1NW1DCrxfF8kI56YEEAIdiLRRKQH0Qppqyd-qTYw&expire=637b993b&sign=34c398fe4a97ad685d5406669e9fe7d9&abr_pts=-1800
 纯享4K,http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3

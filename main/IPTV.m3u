@@ -28,7 +28,7 @@ http://111.20.105.192:6610/000000001000/6000000003000004748/index.m3u8?channel-i
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-name="咪咕体育-4K-HLG源" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
-#EXTINF:-1 tvg-name="咪咕体育-4K-HLG源-2" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源-2
+#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源-2
 http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 group-title="4K频道",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8

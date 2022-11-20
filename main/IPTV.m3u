@@ -46,9 +46,9 @@ http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/inde
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 group-title="体育频道",CCTV5-高清(3)
 http://159.75.85.63:828/shijiebei/sjb.php?id=3007a
-#EXTINF:-1 group-title="体育频道",CCTV5-高清((4)
+#EXTINF:-1 group-title="体育频道",CCTV5-高清(4)
 http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-#EXTINF:-1 group-title="体育频道",CCTV5-高清((5)
+#EXTINF:-1 group-title="体育频道",CCTV5-高清(5)
 http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 #EXTINF:-1 group-title="体育频道",五星体育(1)
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8

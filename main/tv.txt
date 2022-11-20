@@ -4,10 +4,7 @@ BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brt
 纯享4K,http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 欢笑剧场4K,http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 CCTV16-4K-SDR源,http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-CCTV16-4K-HLG源,http://27.36.62.163:9090/live/4010.m3u8
 CCTV16-1080P-HLG源,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-广东综艺4K-HLG源,http://27.36.62.163:9090/live/GDZYHD4K_38000.m3u8
-CCTV4K-HLG源,http://27.36.62.163:9090/live/4005.m3u8
 4K-TEST,https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8
 4K影视1,http://111.20.105.192:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 4K影视2,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
@@ -39,9 +36,9 @@ CCTV5-高清(5),http://111.29.9.42:6610/000000001000/1000000005000025222/index.m
 江苏CCTV4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 江苏CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 江苏CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-江苏CCTV16-4K 34M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+江苏CCTV16-4K 34M2160HLG,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 江苏SiTV欢笑剧场 12M2160,http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
 江苏纯享4K 25M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 江苏纯享4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-江苏纯享4K 30M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+江苏纯享4K 30M2160HLG,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 江苏4K修复 7M2160HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8

@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="BTV冬奥记实际-8KSDR源" tvg-logo="http://jp.muyiyun.top:516/Picon/suzhou4k.png" group-title="8K频道",BTV冬奥记实际-8KSDR源
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="http://jp.muyiyun.top:516/Picon/suzhou4k.png" group-title="4K频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="http://jp.muyiyun.top:516/Picon/cx4k.png" group-title="4K频道",纯享4K

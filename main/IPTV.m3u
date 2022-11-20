@@ -74,23 +74,23 @@ http://120.84.96.33:808/hls/22/index.m3u8
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 #EXTINF:-1 group-title="体育频道",南国都市(备)
 https://justsometime.gztv.com/sec/shenghuos.m3u8
-#EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" group-title="江苏移动4K",江苏8K测试
+#EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" group-title="8K频道",江苏8K测试
 http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="江苏移动4K",CCTV4K 16M2160
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV4K 16M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="江苏移动4K",CCTV16-4K 18M2160
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K 18M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="江苏移动4K",CCTV16-4K 25M2160
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K 25M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="江苏移动4K",CCTV16-4K 34M2160HDR
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K 34M2160HDR
 http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="江苏移动4K",SiTV欢笑剧场 12M2160
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",SiTV欢笑剧场 12M2160
 http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="江苏移动4K",纯享4K 25M2160HDR
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K 25M2160HDR
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="江苏移动4K",纯享4K 16M2160
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K 16M2160
 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="江苏移动4K",纯享4K 30M2160HDR
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道K",纯享4K 30M2160HDR
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K修复.png" group-title="江苏移动4K",4K修复 7M2160HEVC
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K修复.png" group-title="4K频道",4K修复 7M2160HEVC
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8

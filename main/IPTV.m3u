@@ -12,14 +12,8 @@ http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-i
 http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV16-4K-SDR源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16-4K-SDR源
 http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="CCTV16-4K-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16-4K-HLG源
-http://27.36.62.163:9090/live/4010.m3u8
 #EXTINF:-1 tvg-name="CCTV16-1080P-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16-1080P-HLG源
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-#EXTINF:-1 tvg-name="广东综艺4K-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="4K频道",广东综艺4K-HLG源
-http://27.36.62.163:9090/live/GDZYHD4K_38000.m3u8
-#EXTINF:-1 tvg-name="CCTV4K-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV4K-HLG源
-http://27.36.62.163:9090/live/4005.m3u8
 #EXTINF:-1 tvg-name="4K-TEST" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/tg.jpg" group-title="4K频道",4K-TEST
 https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8
 #EXTINF:-1 group-title="4K频道",4K影视1

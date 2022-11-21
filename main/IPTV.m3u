@@ -5,7 +5,7 @@ http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="http://jp.muyiyun.top:516/Picon/suzhou4k.png" group-title="4K频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="抖音4K世界杯SDR源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯SDR源
-https://pull-flv-spe-l26.douyincdn.com/fantasy-trs/stream-400237987663446710_spuhd.flv?_neptune_token=MIGoBAx-FuF-KDLXvK335TIEgYWggCVmO4viUuN_Wss0qByNIYch5R2x5d0lBwIYhb5Dq4_-O3elTgx7gYdaGGpDzOxu_K10KIvrdczlVEGfqKXdwIZHR9e5sdn2XdLHxMWIj0mCVg-f0pPpkrGJkNk4Ulv4_78zXrb-P2x80UG97rDXeWKwrNllFDwvy7463Q7quqFeMzSfBBBvIQobgscEI17J56sAGpK1&expire=637cf1c1&sign=065a0f37db441997442fc0ce499a979f&abr_pts=-1800
+https://pull-flv-spe-l26.douyinliving.com/fantasy/stream-112005215388959414_spuhd.flv?_neptune_token=MIGoBAzmnGxUcbS5W_B6Ke0EgYWQ_gVT-iaAWfSVh8_JX8P43Vxc7v4u-U3rC_r_68ONHeIDlgshF_CmJxzPHuSwiryDoIeoxsnrHB33TCfGSqBCnv2pPdSLTkqPQr8N4kXMlaFAnmmhjtoHzqi6-lh_cucguCRGBBguW_eq7RLivvf9WP0F6ij5nihcW5alJQGkOML24O7mBBD06InLFj6yzl164LW-WAal&expire=637d1640&sign=d075c6bbc94ed4db8e241f8400e24244&abr_pts=-1800
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="http://jp.muyiyun.top:516/Picon/cx4k.png" group-title="4K频道",纯享4K
 http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 group-title="4K频道",欢笑剧场4K
@@ -98,3 +98,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K修复.png" group-title="4K频道",4K修复 7M2160HEVC
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="谷豆精品4K（易失效）",广东综艺-4K-50P-HLG
+http://99.sc1970.xyz:8888/iptv/GDH.php?id=GDZYHD4K_38000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="谷豆精品4K（易失效）",CCTV-4K-50P-HLG
+http://99.sc1970.xyz:8888/iptv/GDH.php?id=4005
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="谷豆精品4K（易失效）",CCTV16-4K-50P-HLG
+http://99.sc1970.xyz:8888/iptv/GDH.php?id=4010

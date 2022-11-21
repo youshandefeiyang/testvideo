@@ -1,6 +1,6 @@
 BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-抖音4K世界杯SDR源,https://pull-spe-l3.douyincdn.com/fantasy/stream-112002057447932598_spuhd.flv?_neptune_token=MIGoBAy6W2fsshiAp0_JQ5EEgYXLK4Eu6EFuIozhlrqnXGROTrxUH3GUg-wbEWKde57ZppgyzkrImnYSXaJ7FMvD7vehX9WkYCABTVIg3YDL9QFZIVVWZuovXBWplHH1j46_KkhqGEKx-_i4I_K6vuTTiMZpdTvatyGEOLUk5uHODBHauF0UQDiVRLbfxyJeVcxsh1GHBNmABBDiJfflXU19evGtfXyUlmKa&auth_key=1669117294-0-0-039754ce2178565d183a7d2bd43dd5de&abr_pts=-1800
+抖音4K世界杯SDR源,https://pull-flv-spe-l26.douyincdn.com/fantasy-trs/stream-400237987663446710_spuhd.flv?_neptune_token=MIGoBAx-FuF-KDLXvK335TIEgYWggCVmO4viUuN_Wss0qByNIYch5R2x5d0lBwIYhb5Dq4_-O3elTgx7gYdaGGpDzOxu_K10KIvrdczlVEGfqKXdwIZHR9e5sdn2XdLHxMWIj0mCVg-f0pPpkrGJkNk4Ulv4_78zXrb-P2x80UG97rDXeWKwrNllFDwvy7463Q7quqFeMzSfBBBvIQobgscEI17J56sAGpK1&expire=637cf1c1&sign=065a0f37db441997442fc0ce499a979f&abr_pts=-1800
 纯享4K,http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 欢笑剧场4K,http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 CCTV16-4K-SDR源,http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3

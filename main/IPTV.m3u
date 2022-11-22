@@ -99,8 +99,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K修复.png" group-title="4K频道",4K修复 7M2160HEVC
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="谷豆精品4K（易失效）",广东综艺-4K-50P-HLG
-http://99.sc1970.xyz:8888/iptv/GDH.php?id=GDZYHD4K_38000
+http://gslb.gcable.cn:8070/live/GDZYHD4K_38000.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=8&pid=&cid=&d=b60131110d72d53&sid=LfGo/65i7+2owDOniEwWhw==&r=20221122024116&e=20221123024121&nc=DSkrjONfhztQ&a=7&v=2
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="谷豆精品4K（易失效）",CCTV-4K-50P-HLG
-http://99.sc1970.xyz:8888/iptv/GDH.php?id=4005
+http://gslb.gcable.cn:8070/live/4005.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=8&pid=&cid=&d=b60131110d72d53&sid=LfGo/65i7+2owDOniEwWhw==&r=20221122024116&e=20221123024121&nc=DSkrjONfhztQ&a=7&v=2
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="谷豆精品4K（易失效）",CCTV16-4K-50P-HLG
-http://99.sc1970.xyz:8888/iptv/GDH.php?id=4010
+http://gslb.gcable.cn:8070/live/4010.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=8&pid=&cid=&d=b60131110d72d53&sid=LfGo/65i7+2owDOniEwWhw==&r=20221122024116&e=20221123024121&nc=DSkrjONfhztQ&a=7&v=2

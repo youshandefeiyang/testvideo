@@ -29,7 +29,7 @@ CCTV5-高清(5),http://111.29.9.42:6610/000000001000/1000000005000025222/index.m
 五星体育(3),http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 广东体育,http://120.84.96.73:808/hls/22/index.m3u8
 广东体育（备）,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-广东体育(备1),http://119.131.240.116:9090/hls/5/index.m3u8
+广东体育(备1),http://113.64.147.6:808/hls/1/index.m3u8
 广东体育(备2),http://120.84.96.26:808/hls/22/index.m3u8
 广东体育(备3),http://120.84.96.33:808/hls/22/index.m3u8
 南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds

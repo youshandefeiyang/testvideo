@@ -1,6 +1,6 @@
 BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-抖音4K世界杯SDR源,https://pull-spe-l3.douyincdn.com/fantasy/stream-400241654356509366_spuhd.flv?_neptune_token=MIGpBAxs6atWlHySZXz5FL0EgYYgMSKRSew_nT81PkUZrEuSTtRcVnC0vTKEWBr-Fgikn3XK0c6Dkxk7__AOHeMPDEnwVGMXztnRuT0f6k881Wxulln_bbo1gyizc1BtlMv3EOM9p5guBVY6P7q23HXN-Gy3fidmBDsE76U1Dg3zhZOYVxmWaa37dSgRXQom0Z4CGdlof0RgQQQQdyDCS00U5AUh7smSirdu3g&auth_key=1669217635-0-0-a04f9f53e0f074f75029ce315be17152&abr_pts=-1800
+抖音4K世界杯SDR源,http://mmmitv.top/test/douyin-x.php?id=rand
 纯享4K,http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 欢笑剧场4K,http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 CCTV16-4K-SDR源,http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3

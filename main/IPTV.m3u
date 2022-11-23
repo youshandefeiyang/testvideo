@@ -4,10 +4,10 @@
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="http://jp.muyiyun.top:516/Picon/suzhou4k.png" group-title="4K频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="抖音4K世界杯SDR源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯SDR源
+#EXTINF:-1 tvg-name="抖音4K50P世界杯源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K50P世界杯源
+http://159.75.85.63:5678/zb.php?id=douyin
+#EXTINF:-1 tvg-name="抖音4K50P世界杯源-备" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K50P世界杯源-备
 http://mmmitv.top/test/douyin-x.php?id=rand
-#EXTINF:-1 tvg-name="抖音4K世界杯SDR源备" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯SDR源备
-http://www.mmitv.top/test/douyin-x.php?id=rand
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="http://jp.muyiyun.top:516/Picon/cx4k.png" group-title="4K频道",纯享4K
 http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 group-title="4K频道",欢笑剧场4K

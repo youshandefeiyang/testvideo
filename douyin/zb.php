@@ -45,10 +45,18 @@ if ($id == 'douyin') {
     $flvcontent = file_get_contents($mediaurl);
     $narr = json_decode($flvcontent, true);
     $playarr = $narr["data"]["stream_url"]["live_core_sdk_data"]["pull_data"]["Flv"];
-    if (empty($quality)) {
-        $realquality = "uhd";
-    } else {
-        $realquality = $quality;
+    switch ($quality) {
+        case "hd":
+            $realquality = "hd";
+            break;
+        case "sd":
+            $realquality = "sd";
+            break;
+        case "ld":
+            $realquality = "ld";
+            break;
+        default:
+            $realquality = "uhd";
     }
     foreach ($playarr as $qualityvalue) {
         if (in_array($realquality, $qualityvalue)) {

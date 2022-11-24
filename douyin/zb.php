@@ -34,7 +34,8 @@ if ($id == 'douyin') {
         return $data;
     }
 
-    $data = urldecode(get_roomid($liveurl));
+    // $data = urldecode(get_roomid($liveurl));
+    $data = urldecode(file_get_contents($liveurl));
     $reg = "/\"roomid\"\:\"[0-9]+\"/i";
     preg_match($reg, $data, $roomid);
     $nreg = "/[0-9]+/";

@@ -17,27 +17,50 @@ if ($id == 'douyin') {
         exit();
     }
     $liveurl = 'https://live.douyin.com/fifaworldcup/' . $liveid;
-    function get_roomid($url)
+    $dyreferer = "https://live.douyin.com/$liveid";
+    $cookietext = tempnam('./temp', 'cookie');
+    function get_cookie($url, $dyreferer, $cookietext)
     {
-        $headers = array(
-            'referer:https://live.douyin.com/',
+        $header = array(
             'upgrade-insecure-requests: 1',
             'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36',
         );
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_REFERER, $dyreferer);
+        curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
+        curl_setopt($ch, CURLOPT_HEADER, TRUE);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
+        curl_setopt($ch, CURLOPT_FOLLOWLOCATION, TRUE);
+        curl_setopt($ch, CURLOPT_COOKIEJAR, $cookietext);
+        $mcontent = curl_exec($ch);
+        preg_match('/Set-Cookie:(.*);/iU', $mcontent, $str);
+        $realstr = $str[1];
+        curl_close($ch);
+        return $realstr;
+    }
+    $realstr = get_cookie($liveurl, $dyreferer, $cookietext);
+    function get_roomid($nurl, $nreferer, $ncookie)
+    {
+        $headers = array(
+            'upgrade-insecure-requests: 1',
+            'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36',
+        );
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $nurl);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
         curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+        curl_setopt($ch, CURLOPT_REFERER, $nreferer);
         curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
-        curl_setopt($ch, CURLOPT_HEADER, true);
+        curl_setopt($ch, CURLOPT_HEADER, FALSE);
+        curl_setopt($ch, CURLOPT_COOKIEFILE, $ncookie);
         $data = curl_exec($ch);
         curl_close($ch);
         return $data;
     }
-
-    // $data = urldecode(get_roomid($liveurl));
-    $data = urldecode(file_get_contents($liveurl));
+    $data = urldecode(get_roomid($liveurl, $dyreferer, $realstr));
+    unlink($cookietext);
     $reg = "/\"roomid\"\:\"[0-9]+\"/i";
     preg_match($reg, $data, $roomid);
     $nreg = "/[0-9]+/";
@@ -64,6 +87,7 @@ if ($id == 'douyin') {
             $playurl = $qualityvalue["url"];
         }
     };
+    echo $playurl;
     header("Location: $playurl");
 } else {
     $arr = array('msg' => "failed", 'data' => "wrong value");

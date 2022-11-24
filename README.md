@@ -10,7 +10,7 @@
    ```  
    arm64架构：  
    ```shell
-   arm64架构：docker run -d --restart unless-stopped --privileged=true -p 9527:80 --name douyin-php youshandefeiyang/douyin-php:arm64
+   docker run -d --restart unless-stopped --privileged=true -p 9527:80 --name douyin-php youshandefeiyang/douyin-php:arm64
    ```
 - 使用Docker自己构建镜像并部署
     ```shell

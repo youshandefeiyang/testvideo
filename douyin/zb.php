@@ -87,7 +87,6 @@ if ($id == 'douyin') {
             $playurl = $qualityvalue["url"];
         }
     };
-    echo $playurl;
     header("Location: $playurl");
 } else {
     $arr = array('msg' => "failed", 'data' => "wrong value");

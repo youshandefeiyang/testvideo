@@ -18,8 +18,8 @@ if ($id == 'douyin') {
     }
     $liveurl = 'https://live.douyin.com/fifaworldcup/' . $liveid;
     $dyreferer = "https://live.douyin.com/$liveid";
-    $cookietext = tempnam('./temp', 'cookie');
-    function get_cookie($url, $dyreferer, $cookietext)
+    $cookietext = './' . md5(microtime()) . '.' . 'txt';
+    function get_cookie($url, $dyreferer, $ocookie)
     {
         $header = array(
             'upgrade-insecure-requests: 1',
@@ -32,7 +32,7 @@ if ($id == 'douyin') {
         curl_setopt($ch, CURLOPT_HEADER, TRUE);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
         curl_setopt($ch, CURLOPT_FOLLOWLOCATION, TRUE);
-        curl_setopt($ch, CURLOPT_COOKIEJAR, $cookietext);
+        curl_setopt($ch, CURLOPT_COOKIEJAR, $ocookie);
         $mcontent = curl_exec($ch);
         preg_match('/Set-Cookie:(.*);/iU', $mcontent, $str);
         $realstr = $str[1];

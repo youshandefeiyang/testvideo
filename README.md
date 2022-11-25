@@ -21,6 +21,5 @@
     # 启动镜像
     docker run -d -p 9527:80 --name my-zb-app -e IP=容器IP地址 -e PORT=9527 zb-app
     ```
-- 访问地址:http://你的IP:9527/zb.php?id=douyin&quality=xxx  
-- 访问地址:http://容器地址:9527/douyin.m3u （兼容性可能更好一些）
+- 访问地址:http://容器地址:9527/douyin.m3u  
 **quality后面可以加画质参数：ld、sd、hd、uhd，什么都不加默认为uhd**

@@ -21,5 +21,5 @@
     # 启动镜像
     docker run -d -p 9527:80 --name my-zb-app zb-app
     ```
-- 访问地址:http://你的IP/zb.php?id=douyin&quality=xxx  
+- 访问地址:http://你的IP:/zb.php?id=douyin&quality=xxx  
 **quality后面可以加画质参数：ld、sd、hd、uhd，什么都不加默认为uhd**

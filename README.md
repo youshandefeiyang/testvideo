@@ -12,7 +12,7 @@
     # 启动镜像
     docker run -d -p 9527:80 --name my-zb-app -e IP=容器IP地址 -e PORT=9527 zb-app
     ```
-- 访问地址:
+- 访问地址:  
     Docker版：
     ```shell
     http://容器地址:9527/douyin.m3u  

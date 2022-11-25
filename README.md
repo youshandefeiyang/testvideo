@@ -14,7 +14,5 @@
     ```
 - 访问地址:
     ```shell
-    docker版∶http://容器地址:9527/douyin.m3u  
-    非docker直接运行∶http://IP∶9527/zb.php?id=douyin&quality=xxx
+    http://容器地址:9527/douyin.m3u  
     ```
-**quality后面可以加画质参数：ld、sd、hd、uhd，什么都不加默认为uhd【仅针对非docker版】**

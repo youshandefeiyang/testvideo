@@ -29,6 +29,12 @@ http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-name="咪咕4K-HLG源-备用3" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源-3
 http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 group-title="4K频道",DAZN F1 UHD 4K
+http://tribaliptv.com:8080/Gustavo/123456/4930
+#EXTINF:-1 group-title="4K频道",MOVISTAR LIGA DE CAMPEONES UHD 4K
+http://tribaliptv.com:8080/Gustavo/123456/12401
+#EXTINF:-1 group-title="4K频道",ODISEA UHD 4K
+http://tribaliptv.com:8080/Gustavo/123456/5195
 #EXTINF:-1 group-title="4K频道",Eleven Sports 1 4K
 http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",SuperSport 4k World CUP

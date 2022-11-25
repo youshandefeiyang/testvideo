@@ -29,6 +29,22 @@ http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-name="咪咕4K-HLG源-备用3" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源-3
 http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 group-title="4K频道",Eleven Sports 1 4K
+http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 group-title="4K频道",SuperSport 4k World CUP
+http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 group-title="4K频道",Sport5 4k
+http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 group-title="4K频道",TRT 4k
+http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 group-title="4K频道",DIGI 4k
+http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 group-title="4K频道",Rai 4k
+http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 group-title="4K频道",TVP 4k
+http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 group-title="4K频道",Sky Sport UHD
+http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K频道",Clarity4K

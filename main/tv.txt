@@ -13,6 +13,14 @@ CCTV16-4K-50P-IPV6-HLG源,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaib
 咪咕体育-4K-HLG源-2,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育-4K-HLG源-3,http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育-4K-HLG源-3,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+Eleven Sports 1 4K,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
+SuperSport 4k World CUP,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
+Sport5 4k,http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
+TRT 4k,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
+DIGI 4k,http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=WYPW6GSH4H
+Rai 4k,http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=WYPW6GSH4H
+TVP 4k,http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
+Sky Sport UHD,http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
 Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8

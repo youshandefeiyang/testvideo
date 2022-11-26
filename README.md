@@ -10,7 +10,7 @@
     # 构建Docker镜像
     docker build -t zb-app .
     # 启动镜像
-    docker run -d -p 9527:80 --name my-zb-app -e IP=容器IP地址 -e PORT=9527 zb-app
+    docker run -d --restart unless-stopped -p 9527:80 --name my-zb-app -e IP=容器IP地址 -e PORT=9527 zb-app
     ```
 - **访问地址:**  
     Docker版：
